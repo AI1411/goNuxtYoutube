@@ -9,8 +9,9 @@
       <change afterPath="$PROJECT_DIR$/youtube-client/store/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-client/store/request-client.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-client/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-client/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/api/fetch_cmost_popular_videos.go" beforeDir="false" afterPath="$PROJECT_DIR$/web/api/fetch_cmost_popular_videos.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-client/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-client/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-client/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-client/store/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,25 +99,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="620" height="226" key="GridCell.Tab.0.bottom" timestamp="1580869998662">
+    <state width="620" height="226" key="GridCell.Tab.0.bottom" timestamp="1580879780415">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="620" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580869998662" />
-    <state width="620" height="226" key="GridCell.Tab.0.center" timestamp="1580869998661">
+    <state width="620" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580879780415" />
+    <state width="620" height="226" key="GridCell.Tab.0.center" timestamp="1580879780414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="620" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580869998661" />
-    <state width="620" height="226" key="GridCell.Tab.0.left" timestamp="1580869998660">
+    <state width="620" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580879780414" />
+    <state width="620" height="226" key="GridCell.Tab.0.left" timestamp="1580879780414">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="620" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580869998660" />
-    <state width="620" height="226" key="GridCell.Tab.0.right" timestamp="1580869998662">
+    <state width="620" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580879780414" />
+    <state width="620" height="226" key="GridCell.Tab.0.right" timestamp="1580879780415">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="620" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580869998662" />
-    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580872914513">
+    <state width="620" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580879780415" />
+    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580879551544">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580872914513" />
+    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580879551544" />
   </component>
 </project>

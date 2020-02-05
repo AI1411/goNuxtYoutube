@@ -21,6 +21,12 @@ func FetchMostPopularVideos() echo.HandlerFunc {
 			logrus.Fatalf("Error creating new Youtube service: %v", err)
 		}
 		call := yts.Videos.List("id,snippet").Chart("mostPopular").MaxResults(3)
+
+		//続きを表示する用の処理
+		pageToken := c.QueryParam("pageToken")
+		if len(pageToken) > 0 {
+			call = call.PageToken(pageToken)
+		}
 		//APIを実行
 		res, err := call.Do()
 		if err != nil {
