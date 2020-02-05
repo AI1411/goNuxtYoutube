@@ -12,8 +12,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "@nuxtjs/bulma": "^1.2.1"
+    "@nuxtjs/axios": "^5.9.5",
+    "@nuxtjs/bulma": "^1.2.1",
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.27",
