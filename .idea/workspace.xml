@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49e7cc6a-1781-4a65-bc91-c94502d02786" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/youtube-client/components/AppVideo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-client/components/TheHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube-client/components/TheSidebar.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-client/routes/api.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-client/store/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/youtube-client/store/request-client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youtube-client/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-client/nuxt.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube-client/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-client/layouts/default.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/youtube-client/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/youtube-client/pages/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +36,7 @@
       <list>
         <option value="Go File" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -111,9 +114,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="620" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580869998662" />
-    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580872256293">
+    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580872914513">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580872256293" />
+    <state x="774" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580872914513" />
   </component>
 </project>
